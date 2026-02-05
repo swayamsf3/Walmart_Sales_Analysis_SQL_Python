@@ -22,3 +22,7 @@ and region-wise performance to support business reporting.
 - Writing business-focused SQL queries
 - Performing data cleaning and basic data exploration using Python
 - Analyzing retail sales data for decision-making
+
+### Business Questions
+- The business questions used for analysis are documented in the business_questions.pdf file.
+
